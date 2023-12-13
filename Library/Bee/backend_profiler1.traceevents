@@ -1,0 +1,624 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698510412164438, "dur":898, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412165348, "dur":160, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1698510412165557, "dur":25, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1698510412165582, "dur":481, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1698510412166084, "dur":521, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412166605, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361213, "dur":225, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361438, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361445, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361447, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361452, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361453, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361458, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361459, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361463, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361464, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361468, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361469, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361472, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361473, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361477, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361478, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361481, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361482, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361486, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361487, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361491, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361492, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361495, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361496, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361500, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361501, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361503, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361505, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361508, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361509, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361512, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361514, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361517, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361526, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412361547, "dur":842, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698510412166202, "dur":409, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412166613, "dur":3508, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170131, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170134, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170169, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170171, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170182, "dur":427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170609, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170657, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170672, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170695, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170704, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170719, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170732, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170741, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698510412170986, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412171005, "dur":86876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698510412257882, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412257910, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level12" }}
+,{ "pid":12345, "tid":1, "ts":1698510412257930, "dur":1808, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698510412259744, "dur":1860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level12" }}
+,{ "pid":12345, "tid":1, "ts":1698510412261616, "dur":99594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412166223, "dur":398, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412166621, "dur":3502, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170133, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170298, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170309, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170374, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170381, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170456, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170466, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170480, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170489, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170501, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170513, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170584, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170594, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170606, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170617, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170631, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170654, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170666, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170678, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170689, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170697, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170707, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170717, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170738, "dur":156, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412170895, "dur":115052, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698510412285947, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698510412285973, "dur":75246, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412166217, "dur":398, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412166615, "dur":3513, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170131, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170367, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170381, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170505, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170586, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170652, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170670, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170697, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170709, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170735, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412170895, "dur":65140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698510412236036, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412236065, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412236092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412236099, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412237774, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698510412237797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412237802, "dur":10262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698510412248078, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1698510412248092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412248095, "dur":775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1698510412248884, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level22" }}
+,{ "pid":12345, "tid":3, "ts":1698510412248897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412248901, "dur":560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level22" }}
+,{ "pid":12345, "tid":3, "ts":1698510412249472, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level21" }}
+,{ "pid":12345, "tid":3, "ts":1698510412249487, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412249490, "dur":598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level21" }}
+,{ "pid":12345, "tid":3, "ts":1698510412250098, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level20" }}
+,{ "pid":12345, "tid":3, "ts":1698510412250114, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412250117, "dur":506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level20" }}
+,{ "pid":12345, "tid":3, "ts":1698510412250636, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1698510412250651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412250655, "dur":662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1698510412251328, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level18.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412251343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412251347, "dur":485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level18.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412251842, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level17.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412251855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412251858, "dur":630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level17.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412252497, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level16.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412252510, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412252513, "dur":766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level16.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412253288, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level15.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412253328, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412253331, "dur":2859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level15.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412256205, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level13.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412256220, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412256224, "dur":657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level13.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412256892, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level13" }}
+,{ "pid":12345, "tid":3, "ts":1698510412256907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412256910, "dur":1144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level13" }}
+,{ "pid":12345, "tid":3, "ts":1698510412258064, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level11.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412258078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412258082, "dur":742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level11.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412258834, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level10.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412258848, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412258851, "dur":458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level10.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698510412259318, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level10" }}
+,{ "pid":12345, "tid":3, "ts":1698510412259331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412259335, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level10" }}
+,{ "pid":12345, "tid":3, "ts":1698510412260109, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1698510412260129, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412260133, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1698510412261045, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1698510412261125, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698510412261138, "dur":100071, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412166253, "dur":372, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412166625, "dur":3511, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412170137, "dur":949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698510412171086, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412171100, "dur":28269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698510412199370, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412199389, "dur":29707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698510412229098, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412229121, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets17.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412229146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412229150, "dur":2061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets17.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412231398, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets15.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412231430, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412231440, "dur":559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets15.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232010, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232060, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232064, "dur":452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232537, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232564, "dur":402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232975, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232991, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412232995, "dur":7863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412240880, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412240929, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412240944, "dur":2570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698510412243540, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level9.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698510412243565, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412243574, "dur":779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level9.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698510412244373, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level9" }}
+,{ "pid":12345, "tid":4, "ts":1698510412244390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412244405, "dur":505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level9" }}
+,{ "pid":12345, "tid":4, "ts":1698510412244919, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level8" }}
+,{ "pid":12345, "tid":4, "ts":1698510412244931, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412244934, "dur":488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level8" }}
+,{ "pid":12345, "tid":4, "ts":1698510412245442, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level7.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698510412245456, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412245459, "dur":454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level7.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698510412245923, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level6.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698510412245949, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412245952, "dur":586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level6.resS" }}
+,{ "pid":12345, "tid":4, "ts":1698510412246551, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1698510412246571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412246574, "dur":553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1698510412247135, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1698510412247149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412247153, "dur":8600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1698510412255770, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level14" }}
+,{ "pid":12345, "tid":4, "ts":1698510412256019, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412256026, "dur":3308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level14" }}
+,{ "pid":12345, "tid":4, "ts":1698510412259358, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1698510412259373, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698510412259376, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1698510412261382, "dur":99825, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412166268, "dur":362, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412166631, "dur":3495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170131, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170455, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170467, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170491, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170501, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170587, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170599, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170617, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170628, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170659, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170673, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170684, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170694, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170704, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170899, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170913, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412170922, "dur":91717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698510412262639, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698510412262654, "dur":98575, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412166290, "dur":345, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412166635, "dur":3489, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170131, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170405, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170418, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170516, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170598, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170608, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170620, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170631, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170656, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170671, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170683, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170694, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170701, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170728, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170738, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170900, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412170916, "dur":50268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698510412221185, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412221207, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets21.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412221227, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412221233, "dur":1215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets21.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412222459, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets20.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412222474, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412222477, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets20.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412224660, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412224678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412224707, "dur":9290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412234011, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412234030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412234035, "dur":3260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":6, "ts":1698510412237312, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698510412237332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412237336, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698510412239085, "dur":20226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1698510412259312, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412259330, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698510412259351, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412259355, "dur":1228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698510412260591, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1698510412260605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698510412260608, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1698510412261488, "dur":99718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412166313, "dur":336, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412166649, "dur":3476, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170131, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170482, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170493, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170508, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170584, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170598, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170607, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170627, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170635, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170666, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170680, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170690, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170699, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170907, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412170918, "dur":36579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698510412207498, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412207523, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412207543, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412207549, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412208375, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412208390, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412208394, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412209135, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412209152, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412209156, "dur":377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412209542, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412209556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412209560, "dur":8385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412217964, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412217983, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412217989, "dur":1149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412219150, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets21.resource" }}
+,{ "pid":12345, "tid":7, "ts":1698510412219166, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412219171, "dur":3965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets21.resource" }}
+,{ "pid":12345, "tid":7, "ts":1698510412223149, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412223165, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412223169, "dur":4394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412227609, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets19.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412227638, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412227657, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets19.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412228642, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets18.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412228660, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412228667, "dur":493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets18.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412229168, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets16.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412229183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412229186, "dur":3772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets16.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412232971, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412232986, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412232990, "dur":3709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412236714, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412236734, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412236738, "dur":2255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412239010, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1698510412239104, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412239119, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412239138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412239145, "dur":5691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412244850, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level8.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412244867, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412244870, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level8.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412245650, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level7" }}
+,{ "pid":12345, "tid":7, "ts":1698510412245664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412245667, "dur":418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level7" }}
+,{ "pid":12345, "tid":7, "ts":1698510412246093, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level6" }}
+,{ "pid":12345, "tid":7, "ts":1698510412246107, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412246110, "dur":412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level6" }}
+,{ "pid":12345, "tid":7, "ts":1698510412246533, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level5.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412246549, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412246572, "dur":455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level5.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412247035, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level4.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412247052, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412247055, "dur":610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level4.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412247683, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level3.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412247697, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412247701, "dur":836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level3.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412248547, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level22.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412248559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412248563, "dur":624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level22.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412249196, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level21.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412249231, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412249234, "dur":499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level21.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412249742, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level20.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412249758, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412249761, "dur":445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level20.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412250214, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412250228, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412250232, "dur":485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412250726, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level19.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412250739, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412250742, "dur":550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level19.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412251301, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level19" }}
+,{ "pid":12345, "tid":7, "ts":1698510412251314, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412251317, "dur":491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level19" }}
+,{ "pid":12345, "tid":7, "ts":1698510412251817, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level18" }}
+,{ "pid":12345, "tid":7, "ts":1698510412251830, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412251833, "dur":416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level18" }}
+,{ "pid":12345, "tid":7, "ts":1698510412252261, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level17" }}
+,{ "pid":12345, "tid":7, "ts":1698510412252277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412252280, "dur":576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level17" }}
+,{ "pid":12345, "tid":7, "ts":1698510412252866, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level16" }}
+,{ "pid":12345, "tid":7, "ts":1698510412252880, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412252884, "dur":802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level16" }}
+,{ "pid":12345, "tid":7, "ts":1698510412253697, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level15" }}
+,{ "pid":12345, "tid":7, "ts":1698510412253712, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412253715, "dur":517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level15" }}
+,{ "pid":12345, "tid":7, "ts":1698510412254256, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level14.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412254274, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412254277, "dur":2681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level14.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412256970, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level12.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412256985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412256988, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level12.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412258119, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level11" }}
+,{ "pid":12345, "tid":7, "ts":1698510412258132, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412258135, "dur":1220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level11" }}
+,{ "pid":12345, "tid":7, "ts":1698510412259367, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412259382, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412259384, "dur":869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698510412260261, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412260279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698510412260283, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698510412261338, "dur":99873, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412166337, "dur":316, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412166653, "dur":3474, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170131, "dur":473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170604, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170616, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170630, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170653, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170665, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170675, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170686, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170693, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170704, "dur":197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412170903, "dur":190246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698510412361150, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698510412361178, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1698510412361178, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412166359, "dur":298, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412166657, "dur":3475, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170139, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170472, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170485, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170581, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170592, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170606, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170620, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170632, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170643, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170654, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170663, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170679, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170688, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170698, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170707, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170720, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170730, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170743, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412170899, "dur":103151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698510412274051, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698510412274080, "dur":87137, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412166377, "dur":284, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412166661, "dur":3480, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170141, "dur":361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170502, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170572, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170599, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170608, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170622, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170634, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170660, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170678, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170691, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170700, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170741, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412170896, "dur":117138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698510412288035, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698510412288057, "dur":73163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412166400, "dur":267, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412166667, "dur":3464, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170133, "dur":455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170588, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170602, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170624, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170633, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170660, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170672, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170690, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170699, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170717, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170729, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170745, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412170903, "dur":32069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698510412202972, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412202994, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":11, "ts":1698510412203078, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412203091, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1698510412203116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412203329, "dur":4675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1698510412208019, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698510412208034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412208038, "dur":716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698510412208765, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698510412208779, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412208782, "dur":616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698510412209409, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1698510412209427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698510412209431, "dur":51765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1698510412261209, "dur":99999, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412166415, "dur":255, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412166671, "dur":3466, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170138, "dur":459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170597, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170613, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170629, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170647, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170663, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170679, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170694, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170887, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170913, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412170923, "dur":27711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698510412198635, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412198671, "dur":63916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698510412262588, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698510412262611, "dur":98602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412166433, "dur":242, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412166675, "dur":3459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170134, "dur":341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170475, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170485, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170499, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170515, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170604, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170621, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170655, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170672, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170687, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170698, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170723, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170733, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170890, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412170903, "dur":96777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698510412267681, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698510412267704, "dur":93527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412166457, "dur":222, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412166680, "dur":3501, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412170181, "dur":934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1698510412171115, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412171128, "dur":30578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201707, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201732, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201745, "dur":15, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201760, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201771, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201780, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201790, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201799, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201809, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201818, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201827, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201836, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201846, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201854, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201862, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201870, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201879, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201887, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201898, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201906, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201915, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201923, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201933, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201948, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201960, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201968, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201977, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412201990, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202000, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202008, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202018, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202030, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202047, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202056, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202066, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202073, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202083, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202092, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202100, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202109, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202118, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202126, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202135, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202142, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202151, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412202158, "dur":115913, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412318079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698510412318112, "dur":476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698510412318599, "dur":42633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412166478, "dur":206, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412166684, "dur":3451, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412170136, "dur":768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1698510412170905, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412170917, "dur":41244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698510412212162, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412212191, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412212208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412212215, "dur":6469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412218699, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets22.assets" }}
+,{ "pid":12345, "tid":15, "ts":1698510412218714, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412218719, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets22.assets" }}
+,{ "pid":12345, "tid":15, "ts":1698510412219799, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets21.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412219816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412219820, "dur":1903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets21.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412221737, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets20.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412221754, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412221758, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets20.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412223140, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":15, "ts":1698510412223157, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412223161, "dur":5973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":15, "ts":1698510412229147, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/sharedassets16.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412229165, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698510412229169, "dur":34548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/MathRunner.exe/MathRunner_Data/sharedassets16.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698510412263731, "dur":97497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412166498, "dur":189, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412166687, "dur":3442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170131, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170264, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170274, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170340, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170348, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170422, "dur":8, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170430, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner.exe" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170439, "dur":7, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170446, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170575, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170587, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170605, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412170614, "dur":125407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/MathRunner.exe/MathRunner_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698510412296022, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698510412296042, "dur":65188, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698510412363125, "dur":1336, "ph":"X", "name": "ProfilerWriteOutput" }
+,
